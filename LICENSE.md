@@ -1,4 +1,4 @@
-# 
+# elite OBS Studio for PC | OBS Studio for Windows Preset | plugin-support + bitrate-control is the best OBS Studio for PC | OBS Studio for Windows preset, featuring plugin-support
 
 
 
